@@ -11,8 +11,8 @@ class App extends React.Component {
     notes: [
       {
         id: 'initial',
-        title: 'Welcome to simple note!',
-        contents: 'Click Add button to add note'
+        title: 'Welcome to note app!',
+        contents: 'Add note'
       }
     ],
     activeId: 'initial'
